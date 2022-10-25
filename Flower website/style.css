@@ -1,0 +1,50 @@
+ *{ 
+	padding: 0;
+	margin: 0;
+	font-family: 'Brush Script MT', 'cursive' ;
+	box-sizing: border-box;
+   
+}
+ .navbar 
+{
+    width: 100%;
+    height: 35px;
+    background-color: rgb(7, 97, 97);
+}
+.first_slide
+
+{
+    padding-top: 20px;
+    
+    width: 100%;
+    height: 350px;
+    margin-top: 0px;
+    background-image: url(./sl1-967x725.jpg);
+    background-position: center;
+   color: rgb(23, 107, 107);
+    text-align: center;
+    
+    
+  
+}
+
+.row{
+    text-align: center;
+    background-color:  #1B745E;
+}
+.col{
+    border-image: round;
+    color: rgb(213, 188, 149);
+    background-color: #093329;
+    text-align: justify;
+    width: 75px;
+    text-shadow: #c85656;
+    text-align: center;
+}
+
+.card
+    {
+width: 60%;
+image-resolution: 200px;
+background-color: bisque;
+}
